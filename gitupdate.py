@@ -6,4 +6,4 @@ os.system("git add --all")
 
 os.system("git commit -m " + sys.argv[0])
 
-os.system("gut push origin main")
+os.system("git push origin main")
