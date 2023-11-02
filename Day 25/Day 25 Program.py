@@ -7,7 +7,7 @@ f.close()
 
 #Day 1
 
-
+base5 = fileinput.splitlines()
 
 
 
